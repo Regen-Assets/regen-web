@@ -1,4 +1,4 @@
-name = "regen-assets"
+name = "regen-web"
 compatibility_date = "2023-12-01"
 
 pages_build_output_dir = "_site"
